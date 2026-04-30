@@ -19,10 +19,6 @@
 
 </br>
 
-<div align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=Ricardo-CHEN17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Ricardo-CHEN17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML,Smarty,AngelScript" alt="Top Languages" height="170"/>
-</div>
 
 </br>
 

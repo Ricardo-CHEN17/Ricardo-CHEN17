@@ -21,9 +21,8 @@
 
 I am a Computer Science student at the University of Nottingham Ningbo China (UNNC), deeply passionate about **Artificial Intelligence**, **Robotics**, and **Algorithms**. I love bridging theoretical algorithms with real-world engineering challenges.
 
-- 🎓 **Education**: UNNC CS (GPA: 3.68) | Intro to Math Software & Prog (96), Foundation Physics (91)
+- 🎓 **Education**: UNNC CS (GPA: 3.68)
 - 🔬 **Research**: Working on rule semantic reconstruction for the RAVEN dataset and AI-driven magnetic material analysis.
-- 🎯 **My motto:** Creating what I like & what you need.
 - 📫 **Reach me at**: cyj070330@qq.com
 
 ---
